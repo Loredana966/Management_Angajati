@@ -1,0 +1,21 @@
+1;Popescu;Maria;Marketing;4000.0
+2;Ionescu;George;Resurse Umane;4200.0
+3;Radulescu;Ana;Vanzari;2600.0
+4;Stanciu;Ion;IT;4700.0
+5;Constantinescu;Andreea;Productie;3100.0
+6;Popescu;George;Vanzari;2800.0
+7;Ionescu;Andreea;Marketing;3100.0
+8;Stanciu;Ana;Resurse Umane;2200.0
+9;Radulescu;Maria;IT;4200.0
+10;Constantinescu;Ion;Productie;4800.0
+11;Ionescu;Ana;IT;3800.0
+12;Radulescu;George;Vanzari;3000.0
+13;Stanciu;Maria;Marketing;3400.0
+14;Constantinescu;Andrei;Resurse Umane;2900.0
+15;Popescu;Ioana;Productie;4200.0
+16;Ionescu;Mihai;Vanzari;3700.0
+17;Radulescu;Elena;Marketing;2800.0
+18;Stanciu;Alex;IT;4100.0
+19;Constantinescu;Ana;Resurse Umane;3200.0
+20;Popescu;Andrei;Productie;3600.0
+
